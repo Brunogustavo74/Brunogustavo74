@@ -5,15 +5,7 @@ HTML
 
 <h2 align="left">Prazer, Bruno Front Dev 👋</h2>
 
-###
 
-<div align="center">
-  <a href="https://github.com/Buenots">
-    <img src="https://img.shields.io/badge/Perfil%20Escolar-Buenots-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil Escolar no GitHub" />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunogustavo74&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="Linguagens mais utilizadas" />
@@ -23,6 +15,15 @@ HTML
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=brunogustavo74.brunogustavo74" alt="Contador de visitantes" />
+</div>
+
+###
+###
+
+<div align="center">
+  <a href="https://github.com/Buenots">
+    <img src="https://img.shields.io/badge/Perfil%20Escolar-Buenots-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil Escolar no GitHub" />
+  </a>
 </div>
 
 ###
